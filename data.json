@@ -1,0 +1,53 @@
+{
+  "myson": [
+    {
+      "name": "Fi",
+      "breed": "Labrador????",
+      "owner": "Fred",
+      "image": "/images/1month.JPG",
+      "id": 1
+    },
+    {
+      "name": "juju",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/2month.JPG",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Magnum",
+      "owner": "Michael",
+      "image": "/images/3month.JPG",
+      "breed": "Rottweiler"
+    },
+    {
+      "id": 4,
+      "name": "Sadie",
+      "owner": "Sam",
+      "image": "/images/4month.JPG",
+      "breed": "Labrador"
+    },
+    {
+      "id": 5,
+      "name": "Murphy",
+      "owner": "Matthew",
+      "image": "/images/5month.JPG",
+      "breed": "Pug"
+    },
+    {
+      "id": 6,
+      "name": "Bella",
+      "owner": "Brianna",
+      "image": "/images/6month.JPG",
+      "breed": "Labrador"
+    },
+    {
+      "id": 7,
+      "name": "Rocky",
+      "owner": "Ricky",
+      "image": "/images/7month.JPG",
+      "breed": "Labrador"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "kavirpics",
+  "version": "2.0.0",
+  "description": "Challenge to learn server side rendering and callbacks",
+  "main": "index.js",
+  "author": "EDA",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "lint": "eslint .",
+    "test": "jest --watchAll"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/kavirpics#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/kavirpics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/kavirpics/issues"
+  },
+  "eslintConfig": {
+    "extends": "eda"
+  },
+  "jest": {
+    "watchPathIgnorePatterns": [
+      "data.json"
+    ]
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "7.9.0",
+    "eslint-config-eda": "0.1.4",
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  }
+}
