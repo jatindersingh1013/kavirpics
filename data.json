@@ -1,53 +1,67 @@
 {
   "myson": [
     {
-      "name": "Fi",
-      "breed": "Labrador????",
-      "owner": "Fred",
+      "month": "First",
+      "meal": "only milk",
+      "doable": "drink and sleep",
       "image": "/images/1month.JPG",
       "id": 1
     },
     {
-      "name": "juju",
-      "breed": "Labrador",
-      "owner": "Chloe",
+      "month": "Second",
+      "meal": "only milk",
+      "doable": "started cooing",
       "image": "/images/2month.JPG",
       "id": 2
     },
     {
       "id": 3,
-      "name": "Magnum",
-      "owner": "Michael",
-      "image": "/images/3month.JPG",
-      "breed": "Rottweiler"
+      "month": "Third",
+      "meal": "only milk",
+      "doable": "started sucking own hands",
+      "image": "/images/3month.JPG"
     },
     {
       "id": 4,
-      "name": "Sadie",
-      "owner": "Sam",
-      "image": "/images/4month.JPG",
-      "breed": "Labrador"
+      "month": "Fourth",
+      "meal": "only milk",
+      "doable": "started grabbing things",
+      "image": "/images/4month.JPG"
     },
     {
-      "id": 5,
-      "name": "Murphy",
-      "owner": "Matthew",
+      "month": "Fifth",
+      "meal": "only milk",
+      "doable": "started biting things and laugh",
       "image": "/images/5month.JPG",
-      "breed": "Pug"
+      "id": 5
     },
     {
       "id": 6,
-      "name": "Bella",
-      "owner": "Brianna",
-      "image": "/images/6month.JPG",
-      "breed": "Labrador"
+      "month": "Sixth",
+      "meal": "milk and water",
+      "doable": "stared recognizing faces",
+      "image": "/images/6month.JPG"
     },
     {
       "id": 7,
-      "name": "Rocky",
-      "owner": "Ricky",
-      "image": "/images/7month.JPG",
-      "breed": "Labrador"
+      "month": "Seventh",
+      "meal": "milk and purees",
+      "doable": "started balancing himself",
+      "image": "/images/7month.JPG"
+    },
+    {
+      "id": 8,
+      "month": "Eighth",
+      "meal": "milk, fruits and purees",
+      "doable": "started sitting by himself",
+      "image": "/images/8month.JPG"
+    },
+    {
+      "id": 9,
+      "month": "Ninth",
+      "meal": "milk,fruit,purees and wheatbix",
+      "doable": "started saying papapapapa",
+      "image": "/images/9month.JPG"
     }
   ]
 }

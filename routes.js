@@ -46,10 +46,9 @@ router.post('/:id/edit', (request, response) => {
 
   fs.writeFile('./data.json', JSON.stringify(newData,null,2), (err) => {
     if(err) {
-      return response.status(500) 
-    }
-    else {
-      response.redirect('/myson/' + id)
+    return response.status(500) 
+    }else {
+    response.redirect('/myson/' + id)
     }
 })
 })
